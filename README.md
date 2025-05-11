@@ -102,5 +102,5 @@ XGBoost, after tuning, emerged as the top performer:
 1. Clone this repository:
 ```bash
 git clone https://github.com/snuka75/creditcard-fraud-detection.git
-cd Banking-Fraud-Detection
+cd creditcard-Fraud-Detection
 jupyter notebook fraud_detection_classifiers_pca_smote_ensemble.ipynb
